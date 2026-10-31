@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var userName = "John Doe";
 var age = 25;
 var info = `My name is ${userName} and my age is ${age}`;

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var isLoggedIn = true;
 var hasAccess = false;
 var age = 25;

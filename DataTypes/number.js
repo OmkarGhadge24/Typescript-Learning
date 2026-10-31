@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var num1 = 20;
 var num2 = 30;
 var total = num1 + num2;

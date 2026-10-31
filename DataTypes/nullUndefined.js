@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var userName = "John Doe";
+console.log("User name:", userName);
+userName = null;
+console.log(typeof userName);
+var age = 25;
+console.log("Age:", age);
+age = undefined;
+console.log(typeof age);
+console.log(userName == age);
+console.log(userName === age);
