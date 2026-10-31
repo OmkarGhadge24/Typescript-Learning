@@ -1,0 +1,16 @@
+"use strict";
+var isLoggedIn = true;
+var hasAccess = false;
+var age = 25;
+var isAdult = age >= 18;
+console.log(typeof isLoggedIn);
+console.log("User logged in:", isLoggedIn);
+console.log("User has access:", hasAccess);
+console.log("Is the user an adult?", isAdult);
+var canViewDashboard = isLoggedIn && isAdult;
+console.log("Can view dashboard?", canViewDashboard);
+var canEditProfile = hasAccess || isLoggedIn;
+console.log("Can edit profile?", canEditProfile);
+var isAdmin = false;
+var canDeletePost = hasAccess && !isAdmin;
+console.log("Can delete post?", canDeletePost);
