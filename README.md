@@ -4,5 +4,5 @@ This repository is dedicated to learning TypeScript from the beginning. The goal
 
 ## Topics
 
-- [1. Basics](#1-basics)
-- [2. Data Types](#2-datatypes)
+- [1. Basics](./Basics/)
+- [2. Data Types](./DataTypes/)
