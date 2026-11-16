@@ -6,3 +6,6 @@ This repository is dedicated to learning TypeScript from the beginning. The goal
 
 - [1. Basics](./Basics/)
 - [2. Data Types](./DataTypes/)
+- [3. Object-Oriented Programming](./OOPs/)
+- [4. DOM Handling](./DOM-handling/)
+- [5. Advanced Concepts](./Adv-topics/)

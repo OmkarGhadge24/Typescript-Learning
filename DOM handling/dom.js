@@ -1,5 +1,5 @@
-// "use strict";
-// Object.defineProperty(exports, "__esModule", { value: true });
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const nameInput = document.querySelector("#nameInput");
 const greetButton = document.querySelector("#greetButton");
 const message = document.querySelector("#message");
